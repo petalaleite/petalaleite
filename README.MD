@@ -5,7 +5,8 @@
 <a href="https://github.com/petalaleite/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=petalaleite&theme=gruvbox&show_icons=true)">
 </a>
-
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petalaleite&show_icons=true=true&theme=gruvbox">
 
 ### Contact me
 
