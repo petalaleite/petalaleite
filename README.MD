@@ -1,4 +1,4 @@
-# About me
+## About me
 * 👩‍🎓 Currently studying Full Stack Web Development at Trybe.
 ## GitHub Stats 📊
 
@@ -8,6 +8,8 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petalaleite&show_icons=true=true&theme=gruvbox">
 
+ ## Languages and Tools
+ 
 [![wakatime](https://wakatime.com/badge/user/4bdd0bf4-0530-47d2-b003-ca6cd406945c.svg)](https://wakatime.com/@4bdd0bf4-0530-47d2-b003-ca6cd406945c)
 
 
