@@ -1,5 +1,7 @@
 ## About me
 * 👩‍🎓 Currently studying Full Stack Web Development at Trybe.
+
+<img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 ## GitHub Stats 📊
 
 <a href="https://github.com/petalaleite/github-readme-stats">
