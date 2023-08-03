@@ -1,5 +1,4 @@
 ## About me
-* 👩‍🎓 Currently studying Full Stack Web Development at Trybe.
 
 <img width="200px" src="https://giffiles.alphacoders.com/190/190634.gif">
 
