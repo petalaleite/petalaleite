@@ -22,7 +22,7 @@
 ## GitHub Stats 📊
 <div>
 <a href="https://github.com/petalaleite/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=petalaleite&theme=gruvbox&show_icons=true)">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=petalaleite&theme=gruvbox&show_icons=true" hspace="10">
 </a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petalaleite&show_icons=true=true&theme=gruvbox">
 </div>
