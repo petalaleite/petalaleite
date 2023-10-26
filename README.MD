@@ -1,4 +1,7 @@
-![Header](https://i.imgur.com/NRJpilj.png)
+<p align="center">
+ ![Header](https://i.imgur.com/NRJpilj.png)
+</p>
+
 ## About me
 
 <img width="200px" src="https://giffiles.alphacoders.com/190/190634.gif">
