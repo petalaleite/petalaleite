@@ -23,7 +23,9 @@ Hi, my name is Pétala. I'm a Junior Software Engineer. Currently studying Ruby 
  
 <br>
 <br>
+
 ## GitHub Stats 📊
+
 <div>
 <a href="https://github.com/petalaleite/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=petalaleite&theme=gruvbox&show_icons=true" hspace="10">
