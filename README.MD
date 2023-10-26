@@ -1,5 +1,5 @@
 <p align="center">
- ![Header](https://i.imgur.com/NRJpilj.png)
+ <img src="https://i.imgur.com/NRJpilj.png">
 </p>
 
 ## About me
