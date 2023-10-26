@@ -6,6 +6,8 @@
 
 <img width="200px" align="right" src="https://giffiles.alphacoders.com/190/190634.gif">
 Hi, my name is Pétala. I'm a Junior Software Engineer. Currently studying Ruby and Ruby On Rails!. My programming journey started quite late. I dropped a carreer as a lawyer to pursuit my dream of working with something I actually enjoyed which was solving problems through technology.
+<br>
+<br>
 
 ## Languages and Tools
  <div>
@@ -19,7 +21,8 @@ Hi, my name is Pétala. I'm a Junior Software Engineer. Currently studying Ruby 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
  
-
+<br>
+<br>
 ## GitHub Stats 📊
 <div>
 <a href="https://github.com/petalaleite/github-readme-stats">
