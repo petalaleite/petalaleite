@@ -4,7 +4,7 @@
 
 ## About me
 
-<img width="200px" src="https://giffiles.alphacoders.com/190/190634.gif">
+<img width="200px" align="right" src="https://giffiles.alphacoders.com/190/190634.gif">
 
 ## Languages and Tools
  <div>
