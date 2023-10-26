@@ -5,6 +5,7 @@
 ## About me
 
 <img width="200px" align="right" src="https://giffiles.alphacoders.com/190/190634.gif">
+Hi, my name is Pétala. I'm a Junior Software Engineer. Currently studying Ruby and Ruby On Rails!. Besides my love for technology and coding I'm a massive football fan and gym rat.
 
 ## Languages and Tools
  <div>
